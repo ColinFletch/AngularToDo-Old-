@@ -1,0 +1,13 @@
+.done-false {
+    color:fuchsia;
+    text-decoration: underline wavy red;
+}
+
+.done-true {
+    text-decoration: line-through;
+    color:dimgrey;
+}
+html {
+    background-color: #BCD2EE;
+}
+    

@@ -1,0 +1,23 @@
+{
+  "name": "angularToDo2",
+  "version": "0.1.0",
+  "description": "angularToDo2",
+  "main": "index.html, todo.css, todo.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "authors": [
+    "Colin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ]
+}
